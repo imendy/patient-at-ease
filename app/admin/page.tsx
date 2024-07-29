@@ -17,7 +17,7 @@ const AdminPage = async () => {
         <Image src="/assets/images/brand-logo.png" alt="logo" width={1000} height={1000} className=" w-fit" />
         </Link>
 
-        <p className="text-16-semibold">Admin Dashboard</p>
+        <p className="text-16-semibold max-[450px]:text-12-semibold">Admin Dashboard</p>
       </header>
 
       <main className="admin-main">
